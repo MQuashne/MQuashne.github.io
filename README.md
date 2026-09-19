@@ -1,6 +1,6 @@
 # MQuashne.github.io
 
-##Projects
+## Projects
 
 [Minecraft Explorers](./Minecraft-Explorers/index.html)
 
